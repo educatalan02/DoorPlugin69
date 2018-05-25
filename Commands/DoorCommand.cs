@@ -12,7 +12,7 @@ namespace DoorPlugin
 
         public string Name => "Door";
 
-        public string Help => "/Door";
+        public string Help => "You Can Use /Door Or Just Punch The Door With Left Click";
 
         public string Syntax => "";
 
