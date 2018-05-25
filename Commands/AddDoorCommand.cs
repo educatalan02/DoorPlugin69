@@ -11,7 +11,7 @@ namespace DoorPlugin
 
         public string Name => "AddDoor";
 
-        public string Help => "/AddDoor";
+        public string Help => "/AddDoor [Perms]";
 
         public string Syntax => "";
 
