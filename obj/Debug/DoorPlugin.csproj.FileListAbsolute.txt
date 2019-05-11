@@ -21,3 +21,9 @@ C:\Users\Justin Biber\source\repos\DoorPlugin\DoorPlugin\obj\Debug\DoorPlugin.dl
 C:\Users\Justin Biber\source\repos\DoorPlugin\DoorPlugin\obj\Debug\DoorPlugin.pdb
 C:\Users\Justin Biber\source\repos\DoorPlugin\DoorPlugin\obj\Debug\DoorPlugin.csprojAssemblyReference.cache
 C:\Users\Justin Biber\source\repos\DoorPlugin\DoorPlugin\obj\Debug\DoorPlugin.csproj.CopyComplete
+C:\Users\educatalan02\source\repos\AdminPanel\DoorPlugin69\obj\Debug\DoorPlugin.csprojAssemblyReference.cache
+C:\Users\educatalan02\source\repos\AdminPanel\DoorPlugin69\obj\Debug\DoorPlugin.csproj.CoreCompileInputs.cache
+C:\Users\educatalan02\source\repos\AdminPanel\DoorPlugin69\obj\Debug\DoorPlugin.dll
+C:\Users\educatalan02\source\repos\AdminPanel\DoorPlugin69\obj\Debug\DoorPlugin.pdb
+C:\Users\educatalan02\source\repos\AdminPanel\DoorPlugin69\bin\Debug\DoorPlugin.dll
+C:\Users\educatalan02\source\repos\AdminPanel\DoorPlugin69\bin\Debug\DoorPlugin.pdb

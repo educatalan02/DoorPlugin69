@@ -6,6 +6,7 @@ using UnityEngine;
 using Rocket.Unturned.Player;
 using Rocket.API.Collections;
 using Rocket.Unturned.Chat;
+using Logger = Rocket.Core.Logging.Logger;
 
 namespace DoorPlugin
 {
@@ -17,8 +18,9 @@ namespace DoorPlugin
         {
             base.Load();
             Instance = this;
-             Rocket.Core.Logging.Logger.Log("DoorPlugin Loaded ❤️ Joosep", System.ConsoleColor.Blue);
-             Rocket.Unturned.Events.UnturnedPlayerEvents.OnPlayerUpdateGesture += UnturnedPlayerEvents_OnPlayerUpdateGesture; 
+            Logger.Log("DoorPlugin Loaded ❤️ Joosep & Fixed by educatalan02", System.ConsoleColor.Blue);
+            Logger.Log("Version: " + Assembly.GetName().Version);
+            Rocket.Unturned.Events.UnturnedPlayerEvents.OnPlayerUpdateGesture += UnturnedPlayerEvents_OnPlayerUpdateGesture; 
         }
         protected override void Unload()
         {
